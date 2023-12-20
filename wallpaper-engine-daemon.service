@@ -3,7 +3,7 @@ Description=Service to change wallpaper every x time.
 
 [Service]
 Type=simple
-ExecStart=/home/atreus/wallpaper_engine/daemon
+ExecStart=/home/atreus/wallpaper-engine-daemon/daemon
 
 [Install]
 WantedBy=default.target
