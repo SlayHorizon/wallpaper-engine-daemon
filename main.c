@@ -5,7 +5,7 @@ int	main(void)
 {
 	while (1)
 	{
-		system("sh /home/atreus/Documents/wallpaper_engine/change_bg.sh");
+		system("sh /home/atreus/wallpaper_engine/change_wallpaper.sh");
 		sleep(20);
 	}
 	return (0);
